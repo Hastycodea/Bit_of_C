@@ -1,7 +1,12 @@
 #include <stdio.h>
 
 int main(){
+	
+	int x;
+	x = 10;
+	
+	int y = x / 2;
 
-	printf("My first c Program\n");
+	printf("%i\n",89);
 	return 0;
 }
