@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-main (void)
+int main (void)
 {
-	printf("The Perimeter of a Rect");
+	// Perimeter of a Rectangle
 	
 	int length;
 	int width;
@@ -15,8 +15,8 @@ main (void)
 
 	int Perimeter = (length + width) * 2;
 
-	printf("Perimeter = ");
-	scanf("%i", &Perimeter);
+	printf("Perimeter = %i\n", Perimeter);
+	
 		
 	return 0;
 }
