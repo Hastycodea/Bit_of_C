@@ -1,4 +1,11 @@
 #include <stdio.h>
+// single line comments
+
+/*
+multi
+line 
+comment
+*/
 
 int main(){
 	
